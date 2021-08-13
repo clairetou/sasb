@@ -2,16 +2,16 @@
   {
     "id":1,
     "firstName":"Sebastian",
-    "lastName":"Eschweiler",
+    "lastName":"Eschweiler"
   },
   {
     "id":2,
     "firstName":"Steve",
-    "lastName":"Palmer",
+    "lastName":"Palmer"
   },
   {
     "id":3,
     "firstName":"Ann",
-    "lastName":"Smith",
+    "lastName":"Smith"
   }
 ]
